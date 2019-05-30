@@ -1,5 +1,5 @@
 # 数据预处理  
-![Day_1](../Info-graphs/Day 1.jpg)  
+![Day_1](https://github.com/heytan/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%201.jpg)  
 
 如图所示，通过6步完成数据预处理。  
 此例用到的数据，代码。  

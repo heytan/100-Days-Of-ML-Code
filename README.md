@@ -18,7 +18,7 @@
 # 数据预处理|第一天  
 数据预处理实现  
 
-![Day_1](Info-graphs/Day 1.jpg)  
+![Day_1](https://github.com/heytan/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%201.jpg)  
 
 
 
