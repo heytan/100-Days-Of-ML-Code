@@ -20,7 +20,7 @@
 
 ![Day_1](https://github.com/heytan/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%201.jpg)  
 # 简单线性回归|第2天  
-![Day_2]()
+![Day_2](https://github.com/heytan/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%202.jpg)
 
 
 

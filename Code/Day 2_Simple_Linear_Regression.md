@@ -1,5 +1,5 @@
 # 简单线性回归模型  
-![Day_2]()
+![Day_2](https://github.com/heytan/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%202.jpg)
 ## 第一步：数据预处理  
 ```python
 import pandas as pd 
