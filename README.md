@@ -17,10 +17,13 @@
 
 # 数据预处理|第1天  
 数据预处理实现  
-
 ![Day_1](https://github.com/heytan/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%201.jpg)  
 # 简单线性回归|第2天  
+简单线性回归  
 ![Day_2](https://github.com/heytan/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%202.jpg)
+# 多元线性回归|第3天  
+多元线性回归  
+![Day_3](https://github.com/heytan/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%203.jpg)
 
 
 
