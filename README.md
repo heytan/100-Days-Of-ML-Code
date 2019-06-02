@@ -24,6 +24,12 @@
 # 多元线性回归|第3天  
 多元线性回归  
 ![Day_3](https://github.com/heytan/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%203.jpg)
+# 逻辑回归|第4天  
+![Day_4](https://github.com/heytan/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%204.jpg)
+# 逻辑回归|第5天 
+# 逻辑回归|第6天 
+逻辑回归实现  
+
 
 
 
