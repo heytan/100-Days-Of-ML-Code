@@ -23,14 +23,14 @@
 ![Day_2](https://github.com/heytan/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%202.jpg)
 # 多元线性回归|第3天  
 多元线性回归  
-![Day_3](https://github.com/heytan/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%203.jpg)
+![Day_3](https://raw.githubusercontent.com/heytan/100-Days-Of-ML-Code/master/Info-graphs/Day%203.png)
 # 逻辑回归|第4天  
 ![Day_4](https://github.com/heytan/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%204.jpg)
 # 逻辑回归|第5天 
 # 逻辑回归|第6天 
 逻辑回归实现  
 # k近邻法(K-NN)|第7天  
-![Day_7]()
+![Day_7](https://raw.githubusercontent.com/heytan/100-Days-Of-ML-Code/master/Info-graphs/Day%207.jpg)
 # 逻辑回归背后的数学|第8天  
 有关逻辑回归的分析和解释，请看这篇文章，它给出了逻辑回归的详细描述。  
 # 支持向量机(SVM)|第9天  
@@ -40,7 +40,7 @@
 # K近邻法(K-NN)|第11天  
 K近邻法实现  
 # 支持向量机(SVM)|第12天  
-![Day_12]()
+![Day_12](https://raw.githubusercontent.com/heytan/100-Days-Of-ML-Code/master/Info-graphs/Day%2012.jpg)
 # 支持向量机(SVM)|第13天  
 SVM实现
 # 支持向量机(SVM)的实现|第14天  
@@ -49,17 +49,17 @@ SVM实现
 # 通过内核技巧实现支持向量机|第16天  
 使用sklearn库实现了SVM算法以及内核函数，该函数将我们的数据点映射到更高维度以找到最佳超平面。
 # 决策树|第23天  
-![Day_23]()
+![Day_23](https://raw.githubusercontent.com/heytan/100-Days-Of-ML-Code/master/Info-graphs/Day%2023.jpg)
 # 决策树|第25天  
 决策树实现
 # 随机森林|第33天  
-![Day_33]()
+![Day_33](https://raw.githubusercontent.com/heytan/100-Days-Of-ML-Code/master/Info-graphs/Day%2033.png)
 # 随机森林|第34天  
 随机森林实现
 # K-均值聚类|第43天  
-![Day_43]()
+![Day_43](https://raw.githubusercontent.com/heytan/100-Days-Of-ML-Code/master/Info-graphs/Day%2043.jpg)
 # 层次聚类|第54天  
-![Day_54]()
+![Day_54](https://raw.githubusercontent.com/heytan/100-Days-Of-ML-Code/master/Info-graphs/Day%2054.jpg)
 
 
 
